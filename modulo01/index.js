@@ -4,7 +4,7 @@ const server = express();
 
 server.use(express.json());
 
-const users = ['Ewerson', 'Isadora', 'Gabriel'];
+const users = ['Ewerson', 'Teodora', 'Gabriel'];
 
 server.use((req, res, next) => {
     console.time('Request');
