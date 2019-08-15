@@ -7,3 +7,5 @@ Exercícios realizados durante o bootcamp da Rocketseat.
 ## Desafios:
 - [Desafio 01](https://github.com/v1eira/bootcamp-desafio-01)
 - [Desafio 02](https://github.com/v1eira/bootcamp-desafio-02)
+- [Desafio 03](https://github.com/v1eira/bootcamp-desafio-03)
+- [Desafio 04](https://github.com/v1eira/bootcamp-desafio-04)
